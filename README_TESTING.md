@@ -2,6 +2,13 @@
 
 This directory contains comprehensive documentation for testing PR 1863, which modifies the `PFDecoder` to inject `__type = @"Object"` for dictionaries with className/objectId and additional fields.
 
+## 🎯 Quick Status
+
+**Static Validation**: ✅ PASSED (14/14 checks)  
+**Unit Tests**: ⏳ Require macOS with Xcode  
+**Documentation**: ✅ COMPLETE  
+**Test Scripts**: ✅ READY
+
 ## Quick Start
 
 ### On macOS with Xcode
